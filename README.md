@@ -1,2 +1,2 @@
 # SchedulesTest2
-Another HTML schedules function tests (made in 23/04/2019)
+Another HTML schedules function tests (made in 04/23/2019)
